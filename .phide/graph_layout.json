@@ -1,0 +1,10 @@
+{
+  "zoom": 0.765138,
+  "panX": -78.2737,
+  "panY": 10.4012,
+  "nodes": [
+    { "id": ".env", "x": 5.41163, "y": 0.532847, "pinned": false },
+    { "id": "dv.txt", "x": -244.003, "y": 44.8792, "pinned": true },
+    { "id": "page.tsx", "x": -149.458, "y": 27.529, "pinned": false }
+  ]
+}
